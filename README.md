@@ -1,4 +1,8 @@
-# WhatsApp AI Agent
+# AI-Agent
+
+Just my WhatsApp Business AI assistant.
+
+## WhatsApp AI Agent
 
 A transparent WhatsApp Business assistant that can answer from:
 
